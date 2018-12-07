@@ -1,5 +1,9 @@
 # ccci-vue-material
 
+Personalized Vue Components using material design
+
+- nothing to show here.. work in-progress..
+
 ## Project setup
 ```
 npm install
@@ -14,3 +18,4 @@ npm run serve
 ```
 npm run build
 ```
+
